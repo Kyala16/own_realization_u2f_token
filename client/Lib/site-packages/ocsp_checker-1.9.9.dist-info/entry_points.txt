@@ -1,0 +1,3 @@
+[console_scripts]
+ocspchecker = ocspchecker.__main__:main
+
